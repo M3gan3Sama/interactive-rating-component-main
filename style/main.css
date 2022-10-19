@@ -28,7 +28,7 @@ ol {
 :root {
   /* FONTS */
   --FF-MAIN: "Overpass", sans-serif;
-  --FS-MAIN-DESKTOP: 0.9375rem;
+  --FS-MAIN-DESKTOP: 0.968rem;
   --FS-HEADING-DESKTOP: 1.85rem;
   --FS-MAIN-MOBILE: 0.875rem;
   --FS-HEADING-MOBILE: 1.5rem;
