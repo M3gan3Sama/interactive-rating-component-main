@@ -28,6 +28,12 @@ This challenge uses javaScript to show rating in a new card.
 
 ---
 
+<p align="center" width="100%">
+  <img src="./design/mobile-preview-active-375.png" width=375 alt="Mobile preview" title="Mobile preview">
+</p>
+
+---
+
 ### Links
 
 - Solution URL: [You can find My solution here](https://github.com/M3gan3Sama/interactive-rating-component-main.git)

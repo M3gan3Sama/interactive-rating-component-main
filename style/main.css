@@ -237,7 +237,8 @@ footer {
   width: 100%;
   color: var(--PARAGRAPH-COLOR);
   background-color: var(--BG-STATE-COLOR);
-  padding: 0.2rem;
+  padding-top: 0.3125rem;
+  padding-bottom: 0.1875rem;
 }
 .attribution > * {
   font-size: 11px;
