@@ -15,6 +15,7 @@ function radioInputChecked() {
       ischecked_method = true;
       break;
     }
+    setTimeout(location.reload.bind(location), 5000);
   }
 }
 
