@@ -28,7 +28,7 @@ ol {
 :root {
   /* FONTS */
   --FF-MAIN: "Overpass", sans-serif;
-  --FS-MAIN-DESKTOP: 0.938rem;
+  --FS-MAIN-DESKTOP: 0.9375rem;
   --FS-HEADING-DESKTOP: 1.85rem;
   --FS-MAIN-MOBILE: 0.875rem;
   --FS-HEADING-MOBILE: 1.5rem;
@@ -59,7 +59,7 @@ ol {
 html,
 body {
   font-family: "Overpass", sans-serif;
-  font-size: var(--FS-MAIN);
+  font-size: var(--FS-MAIN-DESKTOP);
   max-width: 100vw;
   min-height: 100vh;
 }
